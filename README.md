@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anas Bahtaoui, currently a master's degree student at Politecnico di Milano.
+I am Anas, currently a master's degree student at Politecnico di Milano.
 
 - 🌱 I’m currently learning : Statistics, machine learning
 
