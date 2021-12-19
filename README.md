@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Anas Bahtaoui, currently a master's degree student at Politecnico di Milano.
+
+- 🌱 I’m currently learning : Statistics, machine learning
+
 <!--
 **Anas-Bahtaoui/Anas-Bahtaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
