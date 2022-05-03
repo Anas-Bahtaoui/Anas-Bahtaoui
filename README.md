@@ -3,7 +3,7 @@
 I am Anas, currently a master's degree student at Politecnico di Milano.
 
 - 🌱 I’m currently learning : Statistics, machine learning
-- 📫 How to reach me : anas.bahtaoui@gmail.com , anas.bahtaoui@mail.polimi.it
+- 📫 How to reach me : anas.bahtaoui@mail.polimi.it
 
 <!--
 **Anas-Bahtaoui/Anas-Bahtaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
