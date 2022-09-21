@@ -2,7 +2,7 @@
 
 I am Anas, currently a master's degree student at Politecnico di Milano.
 
-- 🌱 I’m currently learning : Statistics, machine learning
+- 🌱 I’m currently learning : Machine Learning, Deep Learning & Data Mining
 - 📫 How to reach me : anas.bahtaoui@mail.polimi.it
 
 
