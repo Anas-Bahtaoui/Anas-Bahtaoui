@@ -16,6 +16,12 @@ I am Anas, currently a master's degree student at Politecnico di Milano.
 </div>
 
 
+
+### Find me on LinkedIn
+
+[![Linkedin Badge](https://img.shields.io/badge/-AnasBahtaoui-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anas-bahtaoui/)](https://www.linkedin.com/in/anas-bahtaoui/)
+
+
 <!--
 **Anas-Bahtaoui/Anas-Bahtaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
