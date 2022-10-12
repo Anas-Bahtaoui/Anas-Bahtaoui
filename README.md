@@ -15,7 +15,11 @@ I am Anas, currently a master's degree student at Politecnico di Milano.
   <img alt="latex" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </div>
 
+### Database
 
+<div style="display: inline_block; margin-top: 15px;">
+ <img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+</div>
 
 ### Find me on LinkedIn
 
