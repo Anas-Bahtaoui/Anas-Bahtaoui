@@ -3,6 +3,7 @@
 I am Anas, currently a master's degree student at Politecnico di Milano.
 
 - 🌱 I’m currently learning : Machine Learning, Deep Learning & Data Mining
+- 🔭 I'm currently working on leveraging clickstream data for segmentation and conversion prediction tasks
 
 
 ### Languages
