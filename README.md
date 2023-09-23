@@ -21,6 +21,12 @@ I am Anas, currently a master's degree student at Politecnico di Milano.
  <img alt="postgresql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
 
+### Tools
+
+<div style="display: inline_block; margin-top: 15px;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</div>
+  
 ### Find me on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnasBahtaoui-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anas-bahtaoui/)](https://www.linkedin.com/in/anas-bahtaoui/)
