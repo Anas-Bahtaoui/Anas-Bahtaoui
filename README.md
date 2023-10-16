@@ -2,7 +2,7 @@
 
 I am Anas, currently a master's degree student at Politecnico di Milano.
 
-- 🌱 I’m currently learning : PostGreSQL and Git
+- 🌱 I’m currently learning : SQL and Git
 - 🔭 I'm currently working on leveraging clickstream data for segmentation and conversion prediction tasks
 
 
