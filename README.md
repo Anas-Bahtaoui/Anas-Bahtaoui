@@ -7,10 +7,6 @@ My studies are focused on Statistics, Machine Learning and Data Science.
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
  - Engineering Degree at `Ecole Centrale Casablanca`
 
-<!---
-:computer: **Most Relevant Work Experience:**
- - Data Scientist Intern at *BNP Paribas Personal Finance* | Apr 2023 - Oct 2023
-
 
 ### Languages
 
