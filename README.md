@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-I am Anas, currently a master's degree student at Politecnico di Milano.
+I'm Anas Bahtaoui and I'm a Mathematical Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis** about **Customer Segmentation and Conversion Prediction**, called **Customer Segmentation and Early Conversion Prediction using Clickstream Data**.
+My studies are focused on Statistics, Machine Learning and Data Science.
 
-- 🌱 I’m currently learning : SQL and Git
-- 🔭 I'm currently working on leveraging clickstream data for segmentation and conversion prediction tasks
+:mortar_board: **Education:**
+ - Master of Science in Mathematical Engineering at `Politecnico di Milano`
+ - Engineering Degree at `Ecole Centrale Casablanca`
+
+<!---
+:computer: **Most Relevant Work Experience:**
+ - Data Scientist Intern at *BNP Paribas Personal Finance* | Apr 2023 - Oct 2023
 
 
 ### Languages
