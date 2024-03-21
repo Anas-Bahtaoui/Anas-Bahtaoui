@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Anas Bahtaoui and I'm a Mathematical Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis** titled **Customer Segmentation and Early Conversion Prediction using Clickstream Data**.
-My studies are focused on Statistics, Machine Learning and Data Science.
+I'm Anas Bahtaoui and I'm a Mathematical Engineering Graduate from Politecnico di Milano.
+
+My interests are focused on Statistics, Machine Learning and Data Science.
 
 ### Education:
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
